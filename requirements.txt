@@ -1,2 +1,2 @@
 gradio==3.1.0
-# Add any other required libraries here
+httpx==0.23.0
